@@ -6,7 +6,7 @@ This project targets the critical challenge of rising enterprise LLM API costs a
 ---
 
 ### 🌐 Live Artifacts & Links
-* 📊 **[Live Interactive Tableau Dashboard]**
+* 📊 **[Live Interactive Tableau Dashboard]**(https://public.tableau.com/app/profile/yash.raj7219/viz/StreamPulseAIPerformanceCostOptimizationTower/Dashboard1)**
 * 📄 **[Technical Project Report (PDF)](./AI_API_Performance_Cost_Optimization_Report.pdf)**
 
 ---
