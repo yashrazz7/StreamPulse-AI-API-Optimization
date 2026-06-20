@@ -6,7 +6,7 @@ This project targets the critical challenge of rising enterprise LLM API costs a
 ---
 
 ### 🌐 Live Artifacts & Links
-* 📊 **[Live Interactive Tableau Dashboard]**(यहाँ_अपना_Tableau_Public_वाला_लिंक_पेस्ट_करो)
+* 📊 **[Live Interactive Tableau Dashboard]**
 * 📄 **[Technical Project Report (PDF)](./AI_API_Performance_Cost_Optimization_Report.pdf)**
 
 ---
